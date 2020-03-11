@@ -1,2 +1,4 @@
-# dl_examples
-Code for different DL tasks (form SkolTech hw, ...)
+# cv_projects
+Collection of my CV projects including:
+- Letters classification
+- Ima
